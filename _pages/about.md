@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Saloni Bhogale, and I am a <a target="_blank" rel="noopener noreferrer" href="https://polisci.wisc.edu/" style="text-decoration: none;">Ph.D. Candidate in Political Science </a> specializing in comparative politics and political methodology, and have completed an  <a target="_blank" style="text-decoration: none;" rel="noopener noreferrer" href="https://stat.wisc.edu/">M.S. in Statistics </a> at the University of Wisconsin--Madison. My work leverages methods from causal inference to study the comparative political economy in the developing world.
+Welcome! My name is Saloni Bhogale, and I am a <a target="_blank" rel="noopener noreferrer" href="https://polisci.wisc.edu/" style="text-decoration: none;">Ph.D. Candidate in Political Science </a> specializing in comparative politics and political methodology, and have completed an  <a target="_blank" style="text-decoration: none;" rel="noopener noreferrer" href="https://stat.wisc.edu/">M.S. in Statistics </a> at the University of Wisconsin--Madison. My work leverages methods from causal inference to study political economy in the developing world.
 
 My research quantifies the relationships between the design of political institutions and the services they provide to constituents, and in my three-paper dissertation, I study how institutional design affects individuals at the local and national level, particularly, how it shapes access to justice, incentives in legislatures and court productivity.
 
